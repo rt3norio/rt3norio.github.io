@@ -100,6 +100,7 @@ body {
 
   background-image: url("../images/llama.jpg");
   background-repeat: repeat;
+  backdrop-filter: blur(3px);
 }
 
 /* Typography
